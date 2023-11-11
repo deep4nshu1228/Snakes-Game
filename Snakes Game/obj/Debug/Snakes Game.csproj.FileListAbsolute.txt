@@ -1,0 +1,10 @@
+D:\SSD Data\Project\Snakes Game\Snakes Game\Snakes Game\bin\Debug\Snakes Game.exe.config
+D:\SSD Data\Project\Snakes Game\Snakes Game\Snakes Game\bin\Debug\Snakes Game.exe
+D:\SSD Data\Project\Snakes Game\Snakes Game\Snakes Game\bin\Debug\Snakes Game.pdb
+D:\SSD Data\Project\Snakes Game\Snakes Game\Snakes Game\obj\Debug\Snakes Game.csproj.AssemblyReference.cache
+D:\SSD Data\Project\Snakes Game\Snakes Game\Snakes Game\obj\Debug\Snakes_Game.Form1.resources
+D:\SSD Data\Project\Snakes Game\Snakes Game\Snakes Game\obj\Debug\Snakes_Game.Properties.Resources.resources
+D:\SSD Data\Project\Snakes Game\Snakes Game\Snakes Game\obj\Debug\Snakes Game.csproj.GenerateResource.cache
+D:\SSD Data\Project\Snakes Game\Snakes Game\Snakes Game\obj\Debug\Snakes Game.csproj.CoreCompileInputs.cache
+D:\SSD Data\Project\Snakes Game\Snakes Game\Snakes Game\obj\Debug\Snakes Game.exe
+D:\SSD Data\Project\Snakes Game\Snakes Game\Snakes Game\obj\Debug\Snakes Game.pdb
